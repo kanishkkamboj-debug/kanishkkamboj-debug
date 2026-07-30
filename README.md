@@ -1,5 +1,6 @@
 # 💫 About Me:
-CS student | DSA & Systems enthusiast | React & Full-Stack learner | Building scalable solutions through clean codeI am a motivated Computer Science student with a strong interest in Data Structures & Algorithms, system-oriented development, and full-stack web development. I enjoy solving complex problems through logical thinking and clean code, and I am continuously building my skills by combining DSA with practical development projects.
+A backend software engineer. Building applications using Java, Spring Boot, Spring Security, SQL, and REST APIs while developing responsive frontends with React. Consistently improving problem-solving through LeetCode questions and strengthening fundamentals in DSA, System Design, Computer Networks, and DBMS. Currently expanding practical experience with Docker, AWS, and scalable backend architecture through full-stack projects.
+
 
 
 ## 🌐 Socials:
